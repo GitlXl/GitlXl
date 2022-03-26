@@ -1,6 +1,6 @@
-[![leesin_1973's github stats](https://github-readme-stats.vercel.app/api?username=GitlXl&show_icons=true)](https://github.com/GitlXl/fgzz)
+### Hi there 👋 [![leesin_1973's github stats](https://github-readme-stats.vercel.app/api?username=GitlXl&show_icons=true)](https://github.com/GitlXl/fgzz)
 
-### Hi there 👋
+
 
 <!--
 **GitlXl/GitlXl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
