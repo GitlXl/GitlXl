@@ -1,3 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=geekswg.geekswg">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 ### Hi there 👋 [![leesin_1973's github stats](https://github-readme-stats.vercel.app/api?username=GitlXl&show_icons=true)](https://github.com/GitlXl/fgzz)
 
 
