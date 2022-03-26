@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GitlXl&count_private=true&show_icons=true&hide=prs" />
+[![leesin_1973's github stats](https://github-readme-stats.vercel.app/api?username=GitlXl&show_icons=true)](https://github.com/GitlXl/fgzz)
 
 ### Hi there 👋
 
