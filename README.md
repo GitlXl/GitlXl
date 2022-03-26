@@ -25,29 +25,3 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=gitlxl&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gitlxl/gitlxl" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gitlxl&repo=gitlxl&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gitlxl/gitlxl.github.io" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gitlxl&repo=gitlxl.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-
-<!--
-**GitlXl/GitlXl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
